@@ -4,7 +4,7 @@ IT23813366 – IT3040 Assignment 1
 Automated Testing for Singlish to Sinhala Transliteration System
 
 ##Repository
-
+https://github.com/ganeesha123/IT23813366_ITPM_Assignment_1.git
 ---
 ##Project Structure
 
